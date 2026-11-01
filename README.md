@@ -6,6 +6,26 @@ You give it an aims page and a study section. It assigns three reviewers by expe
 
 The aims page matters this much because it is the one section every member of the panel reads, and Factor 1 (Importance of the Research), which caps the overall impact score, is mostly decided there.
 
+## Installation
+
+**Option 1: Download ZIP**
+
+Click the green **Code** button at the top of this repo, then **Download ZIP**. Extract the ZIP and add the folder to your Claude skills directory.
+
+**Option 2: Releases**
+
+Go to the [Releases](https://github.com/stephenturner/skill-nih-aims-panel/releases) page and download the latest `.skill` file. Add it to your Claude skills in [customize/skills](https://claude.ai/customize/skills) on the web, or double-click it if you have Claude Desktop installed.
+
+**Option 3: Build it yourself**
+
+Build a `.skill` file from the source code, then add it to your Claude skills as described above.
+
+```sh
+git clone https://github.com/stephenturner/skill-nih-aims-panel.git
+cd skill-nih-aims-panel
+zip -r focus.skill SKILL.md references/
+```
+
 ## Usage
 
 Share or paste an aims page and say something like:
