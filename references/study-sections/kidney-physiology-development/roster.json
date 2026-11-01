@@ -1,0 +1,446 @@
+{
+  "source_url": "https://public.era.nih.gov/pubroster/preSepIndex.era?CID=101323&AGENDA=563184",
+  "parsed_on": "2026-11-01",
+  "page_type": "sep_meeting",
+  "committee_code": "ZRG1 KURS - L (82)",
+  "committee_title": "Kidney Physiology And Development",
+  "meeting_dates": [
+    "07/22/26",
+    "07/22/26"
+  ],
+  "people": [
+    {
+      "last": "Kendrick",
+      "first": "Jessica B",
+      "degrees": [
+        "MD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "kendrick",
+      "role": "chair",
+      "position_lines": [
+        "PROFESSOR",
+        "DIVISION OF RENAL DISEASES AND HYPERTENSION",
+        "DEPARTMENT OF MEDICINE",
+        "SCHOOL OF MEDICINE",
+        "UNIVERSITY OF COLORADO",
+        "AURORA, CO, 80045"
+      ]
+    },
+    {
+      "last": "Amaral",
+      "first": "Sandra",
+      "degrees": [
+        "MD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "amaral",
+      "role": "member",
+      "position_lines": [
+        "ASSOCIATE PROFESSOR",
+        "DIVISION OF NEPHROLOGY",
+        "DEPARTMENT OF PEDIATRICS",
+        "THE CHILDREN'S HOSPITAL OF PHILADELPHIA",
+        "UNIVERSITY OF PENNSYLVANIA",
+        "PHILADELPHIA, PA, 19104"
+      ]
+    },
+    {
+      "last": "Arroyo Ornelas",
+      "first": "Juan Pablo",
+      "degrees": [
+        "MD",
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "arroyo-ornelas",
+      "role": "member",
+      "position_lines": [
+        "ASSISTANT PROFESSOR",
+        "DIVISION OF NEPHROLOGY AND HYPERTENSION",
+        "DEPARTMENT OF MEDICINE",
+        "VANDERBILT UNIVERSITY MEDICAL CENTER",
+        "NASHVILLE, TN, 37209"
+      ]
+    },
+    {
+      "last": "Barr",
+      "first": "Maureen M",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "barr",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DEPARTMENT OF GENETICS",
+        "RUTGERS UNIVERSITY",
+        "PISCATAWAY, NJ, 08854"
+      ]
+    },
+    {
+      "last": "Dell",
+      "first": "Katherine Macrae",
+      "degrees": [
+        "MD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "dell",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DEPARTMENT OF PEDIATRICS",
+        "CLEVELAND CLINIC CHILDREN'S HOSPITAL",
+        "CASE WESTERN RESERVE UNIVERSITY",
+        "CLEVELAND, OH, 44106"
+      ]
+    },
+    {
+      "last": "Delling",
+      "first": "Markus G",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "delling",
+      "role": "member",
+      "position_lines": [
+        "ASSISTANT PROFESSOR",
+        "DEPARTMENT OF PHYSIOLOGY",
+        "UNIVERSITY OF CALIFORNIA AT SAN FRANCISCO",
+        "SAN FRANCISCO, CA, 94563"
+      ]
+    },
+    {
+      "last": "Gamboa",
+      "first": "Jorge Luis",
+      "degrees": [
+        "MD",
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "gamboa",
+      "role": "member",
+      "position_lines": [
+        "ASSISTANT PROFESSOR",
+        "DIVISION OF NEPHROLOGY",
+        "DEPARTMENT OF MEDICINE",
+        "THE UNIVERSITY OF ALABAMA AT BIRMINGHAM",
+        "BIRMINGHAM, AL, 35233"
+      ]
+    },
+    {
+      "last": "Irazabal",
+      "first": "Maria V",
+      "degrees": [
+        "MD",
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "irazabal",
+      "role": "member",
+      "position_lines": [
+        "ASSOCIATE PROFESSOR",
+        "DIVISION OF NEPHROLOGY",
+        "DEPARTMENT OF MEDICINE",
+        "COLLEGE OF MEDICINE",
+        "MAYO CLINIC",
+        "ROCHESTER, MN, 55905"
+      ]
+    },
+    {
+      "last": "Kreidberg",
+      "first": "Jordan A",
+      "degrees": [
+        "MD",
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "kreidberg",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DEPARTMENT OF MEDICINE",
+        "BETH ISRAEL DEACONESS MEDICAL CENTER",
+        "BOSTON, MA, 02115"
+      ]
+    },
+    {
+      "last": "Lin",
+      "first": "Fangming",
+      "degrees": [
+        "MD",
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "lin",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DIVISION OF PEDIATRIC NEPHROLOGY",
+        "DEPARTMENT OF PEDIATRICS",
+        "COLUMBIA UNIVERSITY",
+        "NEW YORK CITY, NY, 10032"
+      ]
+    },
+    {
+      "last": "Mas",
+      "first": "Valeria Raquel",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "mas",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR AND CHIEF",
+        "SURGICAL SCIENCES DIVISION",
+        "DEPARTMENT OF SURGERY",
+        "SCHOOL OF MEDICINE",
+        "UNIVERSITY OF MARYLAND",
+        "BALTIMORE, MD, 21201"
+      ]
+    },
+    {
+      "last": "Monu",
+      "first": "Sumit R",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "monu",
+      "role": "member",
+      "position_lines": [
+        "ASSISTANT SCIENTIST",
+        "HYPERTENSION AND VASCULAR RESEARCH DIVISION",
+        "DEPARTMENT OF MEDICINE",
+        "HENRY FORD HOSPITAL",
+        "DETROIT, MI, 48202"
+      ]
+    },
+    {
+      "last": "Panzer",
+      "first": "Sarah E",
+      "degrees": [
+        "MD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "panzer",
+      "role": "member",
+      "position_lines": [
+        "ASSOCIATE PROFESSOR",
+        "DIVISION OF NEPHROLOGY",
+        "DEPARTMENT OF MEDICINE",
+        "UNIVERSITY OF WISCONSIN-MADISON",
+        "MADISON, WI, 53705"
+      ]
+    },
+    {
+      "last": "Park",
+      "first": "Joo-Seop",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "park",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DIVISION OF NEPHROLOGY AND HYPERTENSION",
+        "DEPARTMENT OF MEDICINE",
+        "FEINBERG SCHOOL OF MEDICINE",
+        "NORTHWESTERN UNIVERSITY",
+        "CHICAGO, IL, 60611"
+      ]
+    },
+    {
+      "last": "Pastor-Soler",
+      "first": "Nuria M",
+      "degrees": [
+        "PHD",
+        "MD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "pastor-soler",
+      "role": "member",
+      "position_lines": [
+        "ASSOCIATE PROFESSOR",
+        "DEPARTMENT OF MEDICINE",
+        "KECK SCHOOL OF MEDICINE",
+        "THE UNIVERSITY OF SOUTHERN CALIFORNIA",
+        "LOS ANGELES, CA, 90033"
+      ]
+    },
+    {
+      "last": "Rauchman",
+      "first": "Michael I",
+      "degrees": [
+        "MD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "rauchman",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DIVISION OF NEPHROLOGY",
+        "DEPARTMENT OF INTERNAL MEDICINE",
+        "SCHOOL OF MEDICINE",
+        "WASHINGTON UNIVERSITY",
+        "ST. LOUIS, MO, 63110"
+      ]
+    },
+    {
+      "last": "Roy-Chaudhury",
+      "first": "Prabir",
+      "degrees": [
+        "MD",
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "roy-chaudhury",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DEPARTMENT OF MEDICINE",
+        "UNIVERSITY OF NORTH CAROLINA KIDNEY CENTER",
+        "CHAPEL HILL, NC, 27599"
+      ]
+    },
+    {
+      "last": "Skolnik",
+      "first": "Edward Y",
+      "degrees": [
+        "MD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "skolnik",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DEPARTMENT OF MEDICINE AND PHARMACOLOGY",
+        "SKIRBALL INSTITUTE",
+        "NEW YORK UNIVERSITY SCHOOL OF MEDICINE",
+        "NEW YORK, NY, 10016"
+      ]
+    },
+    {
+      "last": "Stocker",
+      "first": "Sean D",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "stocker",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DEPARTMENT OF NEUROBIOLOGY",
+        "SCHOOL OF MEDICINE",
+        "UNIVERSITY OF PITTSBURGH",
+        "PITTSBURGH, PA, 15213"
+      ]
+    },
+    {
+      "last": "Tsiokas",
+      "first": "Leonidas",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "tsiokas",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR AND CHAIR",
+        "DEPARTMENT OF CELL BIOLOGY",
+        "UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER",
+        "OKLAHOMA CITY, OK, 73104"
+      ]
+    },
+    {
+      "last": "Wall",
+      "first": "Susan Marie",
+      "degrees": [
+        "MD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "wall",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "RENAL DIVISION",
+        "DEPARTMENTS OF MEDICINE AND PHYSIOLOGY",
+        "EMORY UNIVERSITY",
+        "ATLANTA, GA, 30322"
+      ]
+    },
+    {
+      "last": "Yu",
+      "first": "Jane",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "yu",
+      "role": "member",
+      "position_lines": [
+        "PROFESSOR",
+        "DEPARTMENT OF MEDICINE",
+        "UNIVERSITY OF FLORIDA",
+        "GAINESVILLE, FL, 32610"
+      ]
+    },
+    {
+      "last": "Sahai",
+      "first": "Atul",
+      "degrees": [
+        "PHD"
+      ],
+      "term_end": null,
+      "temporary": false,
+      "slug": "sahai",
+      "role": "sro",
+      "position_lines": [
+        "SCIENTIFIC REVIEW OFFICER",
+        "CENTER FOR SCIENTIFIC REVIEW",
+        "NATIONAL INSTITUTES OF HEALTH",
+        "BETHESDA, MD, 20892"
+      ]
+    },
+    {
+      "last": "Ortiz",
+      "first": "Cyndy",
+      "degrees": [],
+      "term_end": null,
+      "temporary": false,
+      "slug": "ortiz",
+      "role": "esa",
+      "position_lines": [
+        "EXTRAMURAL SUPPORT ASSISTANT",
+        "BETHESDA, MD, 20892"
+      ]
+    }
+  ]
+}
